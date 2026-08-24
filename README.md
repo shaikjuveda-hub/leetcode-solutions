@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
