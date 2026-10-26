@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0518-coin-change-ii](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0055-jump-game) |
+| [0518-coin-change-ii](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0100-same-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
