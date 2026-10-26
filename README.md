@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0078-subsets) |
 | [0322-coin-change](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Hash Table
@@ -138,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
