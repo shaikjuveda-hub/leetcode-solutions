@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [1143-longest-common-subsequence](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
