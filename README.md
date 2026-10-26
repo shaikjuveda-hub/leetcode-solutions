@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0322-coin-change](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Hash Table
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0322-coin-change](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/shaikjuveda-hub/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
